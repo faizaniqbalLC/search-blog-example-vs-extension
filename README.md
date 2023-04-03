@@ -1,69 +1,26 @@
 # search-blog-example README
 
-This is the README for your extension "search-blog-example". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "fds search blog". After writing up a brief description, we recommend including the following sections.
 
-## Features
+### Disclaimer
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Should something go wrong, you can disable it:
 
-For example if there is an image subfolder under your extension project workspace:
+1. Open your command palette with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>Shift</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>.
+2. Choose "**FDS: FDS search blogs**".
 
-\!\[feature X\]\(images/feature-x.png\)
+Or if things go really awry, get a fresh install of VS Code.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+If you are a Windows user, you may need to run VS Code with administrator privileges.
 
-## Requirements
+For Linux and Mac users, Code must not be installed in a read-only location and you must have write permissions.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Updates
 
-## Extension Settings
+Every time you update VS Code, you will need to re-enable "**FDS: FDS search blogs**" in the command palette.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**LICENSE**
+### LICENSE
 
 [MIT License](LICENSE)
 
-**Enjoy!**
+### Enjoy!
