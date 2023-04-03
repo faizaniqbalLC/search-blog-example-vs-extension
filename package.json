@@ -1,7 +1,8 @@
 {
-  "name": "search-blog-example",
-  "displayName": "search blog example",
-  "description": "",
+  "name": "fds-search-blog",
+  "displayName": "fds search blog",
+  "description": "This is first extension for searching blog in VS Code",
+  "publisher": "FizanDevSimplified",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
@@ -30,6 +31,10 @@
   ],
   "author": "Muhammad Fizan Iqbal <se.fizaniqbal2@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizaniqbalLC/search-blog-example-vs-extension.git"
+  },
   "devDependencies": {
     "@types/glob": "^8.1.0",
     "@types/mocha": "^10.0.1",
