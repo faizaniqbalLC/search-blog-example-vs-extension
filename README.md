@@ -1,4 +1,4 @@
-# search-blog-example README
+# fds search blog README
 
 This is the README for your extension "fds search blog". After writing up a brief description, we recommend including the following sections.
 
