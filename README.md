@@ -21,6 +21,6 @@ Every time you update VS Code, you will need to re-enable "**FDS: FDS search blo
 
 ### LICENSE
 
-[MIT License](LICENSE)
+MIT License
 
 ### Enjoy!
