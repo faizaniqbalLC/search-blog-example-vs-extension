@@ -1,7 +1,7 @@
 {
   "name": "fds-search-blog",
   "displayName": "fds search blog",
-  "description": "This is first extension for searching blog in VS Code",
+  "description": "This extension is for searching blog in VS Code related to Javascript React, React Hooks, Custom Hooks, and much more.",
   "publisher": "FizanDevSimplified",
   "version": "0.0.1",
   "engines": {
@@ -16,7 +16,7 @@
     "commands": [
       {
         "command": "search-blog-example.searchBlogExample",
-        "title": "search Blog Example by FDS"
+        "title": "FDS search blogs"
       }
     ]
   },
@@ -26,8 +26,8 @@
     "test": "node ./test/runTest.js"
   },
   "keywords": [
-    "console log colors",
-    "success  error info "
+    "search blog Javascript",
+    "React  hooks localstorage"
   ],
   "author": "Muhammad Fizan Iqbal <se.fizaniqbal2@gmail.com",
   "license": "MIT",
