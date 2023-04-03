@@ -3,7 +3,7 @@
   "displayName": "fds search blog",
   "description": "This extension is for searching blog in VS Code related to Javascript React, React Hooks, Custom Hooks, and much more.",
   "publisher": "FizanDevSimplified",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.77.0"
   },
