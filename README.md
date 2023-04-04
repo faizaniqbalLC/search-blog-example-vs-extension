@@ -1,4 +1,4 @@
-# fds search blog README
+# fds search blog
 
 `fds search blog` extension is amazing for reading blog through vs code by using my provided links in command palette, we recommend including the following sections.
 
@@ -10,11 +10,17 @@ Later I'll start to make my own blogs. Now I'm using content of one creator Web 
 
 Should something go wrong, you can disable it:
 
-1. Open your command palette with Ctrl + Shift + P or Shift + ⌘ + P.
+- To activate effects:
+
+1. Open your command palette with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>Shift</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>.
 2. Search `FDS search blogs`.
 
 ### LICENSE
 
-MIT License
+[MIT License](LICENSE)
+
+### LinkedIn
+
+[Follow me Here](https://www.linkedin.com/in/muhammad-fizan-iqbal/)
 
 ### Enjoy!
