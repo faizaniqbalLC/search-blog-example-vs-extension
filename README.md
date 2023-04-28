@@ -1,4 +1,4 @@
-**fds search blog**       
+**fds search blog**        
 
 `fds search blog` extension is amazing for reading blog through vs code by using my provided links in command palette, we recommend including the following sections.
 
