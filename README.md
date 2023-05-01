@@ -1,6 +1,6 @@
-**fds search blog**
+**Blogs for Javascript**
 
-`fds search blog` extension is amazing for reading blog through vs code by using my provided links in command palette, we recommend including the following sections.
+`Blogs for Javascript` extension is amazing for reading blog through vs code by using my provided links in command palette, we recommend including the following sections.
 
 You can search blogs about Javascript , Ecmascript, Es6, ESmodule-System-In-NodeJs, React, Css, Custom Hooks, Animations and much more.
 
