@@ -3,7 +3,7 @@
   "displayName": "Blogs for Javascript",
   "description": "This extension is for searching blog in VS Code related to Javascript React, React Hooks, Custom Hooks, and much more.",
   "publisher": "FizanDevSimplified",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.77.0"
