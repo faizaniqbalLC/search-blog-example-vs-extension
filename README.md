@@ -1,4 +1,4 @@
-**Blogs for Javascript**     
+**Blogs for Javascript**      
 
 `Blogs for Javascript` extension is amazing for reading blog through vs code by using my provided links in command palette, we recommend including the following sections.
 
